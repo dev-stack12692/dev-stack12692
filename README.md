@@ -73,7 +73,7 @@
 | Project | Link / Status | Highlights |
 |---|---|---|
 | **Vozify** | [vozify.free.je](https://vozify.free.je) | Neural text-to-speech processing engine with low-latency audio delivery |
-| **MusicNest** | Web App | Streamlined music streaming & discovery experience |
+| **MusicNest** | Mobile App | Streamlined music streaming & discovery experience |
 | **Expensiq AI** | Mobile App | Intelligent financial categorization assistant tailored for students |
 
 ---
