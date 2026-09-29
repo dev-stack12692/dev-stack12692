@@ -10,7 +10,7 @@
   </p>
 
   <p align="center">
-    <a href="https://swapnendu-portfolio.base44.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://dev-stack12692.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
     <img src="https://komarev.com/ghpvc/?username=dev-stack12692&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   </p>
 
