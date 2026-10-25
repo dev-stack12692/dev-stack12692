@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <defs>
+    <filter id="blurMed" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="45"/></filter>
+  </defs>
+  <rect width="1200" height="200" fill="#0d0a0a"/>
+  <circle cx="200" cy="100" r="110" fill="#b91c1c" opacity="0.22" filter="url(#blurMed)">
+    <animate attributeName="opacity" values="0.22;0.34;0.22" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="100" r="110" fill="#b91c1c" opacity="0.22" filter="url(#blurMed)">
+    <animate attributeName="opacity" values="0.34;0.22;0.34" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <g font-family="Georgia, serif" font-size="52" fill="#e0483e" text-anchor="middle">
+    <text x="205" y="105">5★</text>
+    <text x="500" y="105">11</text>
+    <text x="700" y="105">v1.3.2</text>
+    <text x="995" y="105">24</text>
+  </g>
+  <g font-family="'Courier New', monospace" font-size="13" fill="#9a8f85" text-anchor="middle">
+    <text x="205" y="140">MUSICNEST STARS</text>
+    <text x="500" y="140">PUBLIC REPOS</text>
+    <text x="700" y="140">LATEST RELEASE</text>
+    <text x="995" y="140">REELS POSTED</text>
+  </g>
+  <g stroke="#4a2020" stroke-width="1">
+    <line x1="352" y1="55" x2="352" y2="145"/>
+    <line x1="600" y1="55" x2="600" y2="145"/>
+    <line x1="848" y1="55" x2="848" y2="145"/>
+  </g>
+</svg>

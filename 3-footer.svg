@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <filter id="blurBig" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="70"/></filter>
+  </defs>
+  <rect width="1200" height="260" fill="#0d0a0a"/>
+  <circle cx="240" cy="200" r="150" fill="#7f1d1d" opacity="0.30" filter="url(#blurBig)">
+    <animate attributeName="opacity" values="0.30;0.45;0.30" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="980" cy="60" r="150" fill="#b91c1c" opacity="0.28" filter="url(#blurBig)">
+    <animate attributeName="opacity" values="0.28;0.42;0.28" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="24" y="24" width="1152" height="212" fill="#140d0d" opacity="0.82" stroke="#4a2020" stroke-width="2"/>
+  <g fill="#e0483e">
+    <circle cx="300" cy="90" r="2.5" opacity="0.45"><animate attributeName="cy" values="90;65;90" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="180" r="3" opacity="0.4"><animate attributeName="cy" values="180;150;180" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="120" r="2" opacity="0.35"><animate attributeName="cy" values="120;95;120" dur="10s" repeatCount="indefinite"/></circle>
+  </g>
+  <path d="M 60 208 Q 180 192 300 208 T 540 208 T 780 208 T 1020 208 T 1140 208" fill="none" stroke="#e0483e" stroke-width="2" opacity="0.35">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -120 0; 0 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="130" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="64" fill="#e0483e">Swapnendu</text>
+  <text x="600" y="170" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#ece5d8">Building things worth shipping.</text>
+  <text x="600" y="198" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" letter-spacing="4" fill="#9a8f85">APPS · BOTS · MUSIC TECHNOLOGY</text>
+</svg>
