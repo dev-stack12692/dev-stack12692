@@ -4,7 +4,7 @@
 
 <a href="https://musicnest.me"><img src="https://img.shields.io/badge/APP-MUSICNEST.ME-e0483e?style=flat-square&labelColor=140d0d" alt="MusicNest" /></a>
 <a href="https://dev-stack12692.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-GITHUB.IO-e0483e?style=flat-square&labelColor=140d0d" alt="Portfolio" /></a>
-<a href="https://www.instagram.com/ai.dev_swapnendu"><img src="https://img.shields.io/badge/INSTAGRAM-AI.DEV__SWAPNENDU-e0483e?style=flat-square&labelColor=140d0d" alt="Instagram" /></a>
+<a href="https://www.instagram.com/dev_stack12692"><img src="https://img.shields.io/badge/INSTAGRAM-DEV__STACK12692-e0483e?style=flat-square&labelColor=140d0d" alt="Instagram" /></a>
 <a href="https://github.com/dev-stack12692/MusicNest/releases"><img src="https://img.shields.io/badge/LATEST-MUSICNEST%20V1.3.2-e0483e?style=flat-square&labelColor=140d0d" alt="Latest release" /></a>
 <img src="https://komarev.com/ghpvc/?username=dev-stack12692&style=flat-square&color=e0483e&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -28,7 +28,7 @@ I build things end to end and ship them myself - apps, bots, and the sites that 
 > MusicNest v1.3.2 shipped - equalizer, karaoke lyrics, Listen Together
 > next MusicNest release            [in progress]
 > Instinct Agency - demo sites for local businesses across India
-> daily Instagram reels @ai.dev_swapnendu
+> daily Instagram reels @dev_stack12692
 ```
 
 ---
@@ -112,7 +112,7 @@ I build things end to end and ship them myself - apps, bots, and the sites that 
 
 <a href="https://musicnest.me"><img src="https://img.shields.io/badge/WEBSITE-MUSICNEST.ME-e0483e?style=flat-square&labelColor=140d0d" alt="Website" /></a>
 <a href="https://dev-stack12692.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-GITHUB.IO-e0483e?style=flat-square&labelColor=140d0d" alt="Portfolio" /></a>
-<a href="https://www.instagram.com/ai.dev_swapnendu"><img src="https://img.shields.io/badge/INSTAGRAM-AI.DEV__SWAPNENDU-e0483e?style=flat-square&labelColor=140d0d" alt="Instagram" /></a>
+<a href="https://www.instagram.com/dev_stack12692"><img src="https://img.shields.io/badge/INSTAGRAM-DEV__STACK12692-e0483e?style=flat-square&labelColor=140d0d" alt="Instagram" /></a>
 <a href="https://github.com/dev-stack12692"><img src="https://img.shields.io/badge/GITHUB-DEV--STACK12692-e0483e?style=flat-square&labelColor=140d0d" alt="GitHub" /></a>
 
 <img src="assets/footer.svg" width="100%" alt="Swapnendu - building things worth shipping" />
